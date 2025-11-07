@@ -1,0 +1,5 @@
+{
+  "appId": "com.simpleweather.app",
+  "appName": "Simple Weather",
+  "webDir": "dist"
+}
